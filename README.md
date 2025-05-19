@@ -1,2 +1,1 @@
-# GitHubCloneProject
-Learning to clone and existing directory
+This is the description of my repo
